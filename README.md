@@ -13,7 +13,7 @@
 
 ## Ferramentas
 
-* **Visualização de Dados (BI):** [Looker Studio](https://lookerstudio.google.com/)
+* **Visualização de Dados (BI):** [Looker Studio]
 * **Fonte de Dados:** Google Sheets / Excel (Planilha de Controle Operacional)
 * **Modelagem:** Campos calculados do Looker, métricas personalizadas de criticidade e agrupamentos por período/operação.
 
@@ -22,10 +22,7 @@
 ##  Demonstração Visual
 
 ### 1. Visão Geral e Indicadores Semanais
-![Visão Geral do Dashboard](https://via.placeholder.com/800x400.png?text=Cole+aqui+um+print+da+Vis%C3%A3o+Geral)
-
-### 2. Mapeamento de Criticidade e Analistas Ofensores
-![Análise de Criticidade](https://via.placeholder.com/800x400.png?text=Cole+aqui+um+print+das+an%C3%A1lises+por+analista)
+![Visão Geral do Dashboard](despublicados.mp4)
 
 ---
 
