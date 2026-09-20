@@ -1,4 +1,4 @@
-#  Dashboard de Análise de Imóveis Despublicados (Looker Studio)
+#  Dashboard de Análise de Imóveis Despublicados
 
 > Painel de auditoria e controle de qualidade para monitoramento de anúncios de imóveis publicados na plataforma e despublicados em até 7 dias, cobrindo a performance do time de vendas, gestão de consequências e reincidência.
 
