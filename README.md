@@ -22,7 +22,7 @@
 ##  Demonstração Visual
 
 ### 1. Visão Geral e Indicadores Semanais
-![Visão Geral do Dashboard](despublicados.png)
+![Visão Geral do Dashboard](despublicados.mp4)
 
 ---
 
